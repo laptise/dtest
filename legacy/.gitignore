@@ -1,0 +1,10 @@
+# CRA (react-scripts) project
+node_modules/
+build/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
